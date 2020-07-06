@@ -1,2 +1,2 @@
 # Paulo Senna
- Repositório de ideias
+ Repositório de ideias e projetos de desenvolvimento de aplicativos.
